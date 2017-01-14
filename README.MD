@@ -4,11 +4,11 @@ You need to have npm installed.
 
 To run the pattern finder:
 
-> npm find-pattern <input>
+> npm find-pattern.js input
 
-You may also specify input from system in, like so
+For example
 
-> npm find-pattern < cat inputfile
+> node find-pattern.js aaaabaa
 
 Tests
 =====
@@ -16,4 +16,4 @@ Tests
 
 Notes
 =====
-If it weren't for that fact that Javascript cannot read from system in, you could run this with any package manager
+If it weren't for that fact that Javascript cannot read from system in, you could run this with any javascript tool
