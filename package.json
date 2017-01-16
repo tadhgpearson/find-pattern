@@ -1,0 +1,21 @@
+{
+  "name": "find-pattern",
+  "version": "1.0.0",
+  "description": "Finds repeating patterns in an input text",
+  "main": "find-pattern.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tadhgpearson/find-pattern.git"
+  },
+  "author": "Tadhg Pearson",
+  "bugs": {
+    "url": "https://github.com/tadhgpearson/find-pattern/issues"
+  },
+  "homepage": "https://github.com/tadhgpearson/find-pattern",
+   "dependencies": {
+    "readline-sync": "1.4.5"
+  }
+}
