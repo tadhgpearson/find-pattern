@@ -8,16 +8,20 @@ To install the pattern finder, clone and install this repo:
 
 To run the pattern finder:
 
-> npm find-pattern.js input
+> node find-pattern.js _optional input_
 
 For example
 
 > node find-pattern.js aaaabaa
 
+If you don't provide an input parameter, you'll be prompted for input.
+
 Tests
 =====
+Install the dev dependencies, and run
 
+> node test
 
 Notes
 =====
-If it weren't for that fact that Javascript cannot read from system in, you could run this with any javascript tool
+If it weren't for that fact that Javascript cannot read from system in, then we wouldn't require node!

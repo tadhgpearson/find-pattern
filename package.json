@@ -17,5 +17,8 @@
   "homepage": "https://github.com/tadhgpearson/find-pattern",
    "dependencies": {
     "readline-sync": "1.4.5"
+  },
+  "devDependencies": {
+    "tape": "*"
   }
 }
