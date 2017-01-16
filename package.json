@@ -2,7 +2,7 @@
   "name": "find-pattern",
   "version": "1.0.0",
   "description": "Finds repeating patterns in an input text",
-  "main": "find-pattern.js",
+  "main": "index.js",
   "scripts": {
     "test": "node test"
   },

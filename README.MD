@@ -24,4 +24,7 @@ Install the dev dependencies, and run
 
 Notes
 =====
+Logic is in index.js, which can be used as a module also.
+Command line is in find-pattern.js
+
 If it weren't for that fact that Javascript cannot read from system in, then we wouldn't require node!
